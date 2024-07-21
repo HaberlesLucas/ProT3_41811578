@@ -1,0 +1,10 @@
+
+.contenedor-img {
+    height: 400px;
+    object-fit: contain;
+}
+
+
+.divLoginContainer {
+    min-height: calc(100vh - 150px);
+}
